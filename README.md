@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkatasai24
-- 👀 I’m interested in upskilling my coding levels
-- 🌱 I’m currently learning cpp,c,etc..
+- 👀 I’m interested in upskilling my coding levels and in web development
+- 🌱 I’m currently learning cpp,c,HTML,CSS,JS,etc..
 - 📫 You can reach me through my email
 
 <!---
