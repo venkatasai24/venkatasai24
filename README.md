@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @venkatasai24
-- 👀 I'm interested in upskilling my coding skills in both general programming and web development.
+- 👀 I'm interested in upskilling my coding skills in both competitive programming and web development.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
