@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @venkatasai24
-- 👀 I’m interested in upskilling my coding levels and in web development
-- 🌱 I’m currently learning C++,C,HTML,CSS,JS,etc..
-- 📫 You can reach me through my email
+- 👀 I'm interested in upskilling my coding skills in both general programming and web development.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
