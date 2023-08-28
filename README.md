@@ -13,6 +13,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
+<img align="center" alt="Coding" width="1000" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true">
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=venkatasai24&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
