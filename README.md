@@ -11,7 +11,7 @@
     <div class="container" style="max-width: 800px; margin: 20px auto; background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <p> 👋 Hey there! I'm Venkatasai, and I'm on a mission to level up my coding skills in both competitive programming and web development. </p> 
          <p> This is my coding playground where I turn lines of code into magic! 🌟</p>
-        <img align="center" alt="Coding" width="1000" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true">
+        <img align="center" alt="Coding" width="1000" src="https://github.com/venkatasai24/venkatasai24/blob/main/dino.gif?raw=true">
         <h2>🌐 Connect with Me</h2>
         <ul>
             <li>📧 Email: <a href="mailto:venkatasai24042004@gmail.com">venkatasai24042004@gmail.com</a></li>
