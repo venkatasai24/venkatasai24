@@ -26,12 +26,6 @@
 </body>
 </html>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 # 💻 Tech Stack
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
